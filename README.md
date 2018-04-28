@@ -20,3 +20,7 @@ configure /etc/modprobe.d/bttv.conf
 
 > https://modwsgi.readthedocs.io/en/develop/
 
+* Issues
+-Placa vermelho não consegue ser lida.
+-Blitz deve ler a placa inteira.
+-Rodízio deve pegar apenas o último dígital.
