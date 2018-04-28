@@ -11,5 +11,12 @@ References:
 
 * Xawtv
 > https://www.linuxtv.org/wiki/index.php/Xawtv
-> run chmod 664 /dev/video0
+```sh
+run chmod 664 /dev/video0
+configure /etc/modprobe.d/bttv.conf
+```
+* mod_wsgi
+> Install Carmen For Linux (skip this step if you are not using FXVD4)
+
+> https://modwsgi.readthedocs.io/en/develop/
 
