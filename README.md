@@ -7,7 +7,10 @@ References:
 > http://www.imagenation.com/dnpages/pxc_files.html#manuals
 
 * OpenCV for Ubuntu:
-> http://rndness.com/blog/2018/2/3/installing-opencv-on-ubuntu-1710-yum install opencv-devel
+> https://docs.opencv.org/3.4.1/d2/de6/tutorial_py_setup_in_ubuntu.html
+
+* Tesseract for Ubuntu:
+> https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/
 
 * Xawtv
 > https://www.linuxtv.org/wiki/index.php/Xawtv
